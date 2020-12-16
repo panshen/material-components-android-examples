@@ -18,5 +18,6 @@
 <resources>
     <array name="preloaded_fonts" translatable="false">
         <item>@font/roboto_black_italic</item>
+        <item>@font/wallpoet</item>
     </array>
 </resources>

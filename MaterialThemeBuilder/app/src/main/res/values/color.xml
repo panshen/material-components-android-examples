@@ -62,4 +62,9 @@
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
 
+    <color name="navy_500">#34b5e1</color>
+    <color name="navy_700">#2194c1</color>
+    <color name="navy_900">#12638d</color>
+    <color name="yellow_300">#c5cd21</color>
+
 </resources>
